@@ -1,0 +1,53 @@
+style.css
+html {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+	margin: 0px;
+}
+
+.content {
+	width: 85%;
+	margin: auto;
+}
+
+header #top {
+	display: flex;
+}
+
+header #top img {
+	height: 45px;
+	margin-top: 30px;
+}
+
+header #top ul {
+	margin: 0px;
+	margin-left: auto;
+}
+
+header #top ul li {
+	display: inline-block;
+	padding: 0px 30px;
+	padding-top: 45px;
+    padding-bottom: 15px;
+}
+
+header #top ul li:first-child {
+	color: #0065FC;
+	border-top: 2px solid #0065FC;
+}
+
+header #top ul li:last-child {
+	color: #0065FC;
+	font-weight: 600;
+}
+
+header #bottom h3 {
+	margin-top: 30px;
+}
+
+header #bottom #subtitle {
+	margin-top: -10px;
+}
+

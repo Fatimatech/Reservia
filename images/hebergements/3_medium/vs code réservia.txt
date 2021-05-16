@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+      <title>Trouver votre hébergement pour des vacances de rêve</title>
+      <link href="css/style.css" rel="stylesheet">
+   </head>
+
+   <body>
+      <div class="content">
+         <header>
+            <div id="top">
+               <img src="images/logo/Reservia.svg">
+
+               <ul>
+                  <li>Hébergements</li>
+                  <li>Activités</li>
+                  <li>S'inscrire</li>
+               </ul>
+            </div>
+            
+            <div id="bottom">
+               <h3>Trouvez votre hébergement pour des vacances de rêve</h3>
+               <div id="subtitle">En plein centre ville ou en pleine nature</div>
+            </div>
+         </header>
+
+
+      </div>
+
+   <!-- Section 1 -->
+
+   <!-- Section 2 Description -->
+
+   <!-- Section 3 Contenu mis en avant -->
+
+   <!-- Section 4 Details -->
+
+   <!-- Section 5 Big picture -->
+   
+   <!-- Section 6 A propos -->
+
+   <!-- Section 7 Gammes de prix  -->
+
+   <!-- Footer -->
+
+</body>
+
+</html>
