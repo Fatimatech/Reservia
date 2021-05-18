@@ -138,3 +138,17 @@ header #bottom #subtitle {
 .info p i {
     color: #0065fc;
 }
+@media (min-width: 768px) and (max-width: 1200px)
+.main .heberg aside .card__populaire {
+    width: 31%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin: 0 0 20px 0 !important;
+}
